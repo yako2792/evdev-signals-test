@@ -1,2 +1,2 @@
-# evdev-signals-test
-# evdev-signals-test
+# EVDEV PROJECT
+This is a test project for using evdev library on python.
